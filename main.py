@@ -16,7 +16,7 @@ def main():
         display(sort_dict_by_value(counted),count_words(book_str),filepath)
     except Exception:
         print("Usage: python3 main.py <path_to_book>")
-        x = 1/0
+        
     
     
 
